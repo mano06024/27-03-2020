@@ -10,6 +10,7 @@ public class Car
           odd=new int[10];
           System.out.println("enter car number");
           for(i=0;i<10;i++)
+          {
           car[i]=sc.nextInt();
     }
     System.out.println("even car number");
